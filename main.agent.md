@@ -11,5 +11,3 @@ When someone asks what you can do, explain that you're a serverless AI agent run
 
 ---
 
-Nice work Anthony.
-
